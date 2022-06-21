@@ -20,7 +20,7 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <spring.boot.version>2.2.6.RELEASE</spring.boot.version>
-    <mysql-connector.version>8.0.19</mysql-connector.version>
+    <mysql-connector.version>8.0.28</mysql-connector.version>
     <lombok.version>1.18.12</lombok.version>
     <guava.version>23.0</guava.version>
     <junit-jupiter.version>5.3.2</junit-jupiter.version>
